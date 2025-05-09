@@ -1,0 +1,6 @@
+[submodule "academic"]
+	path = academic
+	url = https://github.com/krisaziabor/academic.git
+[submodule "design"]
+	path = design
+	url = https://github.com/krisaziabor/design.git
