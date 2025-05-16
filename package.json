@@ -6,6 +6,9 @@
     "format": "prettier --write ."
   },
   "devDependencies": {
-    "prettier": "^3.2.5"
+    "@types/node": "^22.15.17",
+    "prettier": "^3.2.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
   }
-} 
+}
