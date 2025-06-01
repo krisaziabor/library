@@ -4,3 +4,6 @@
 [submodule "design"]
 	path = design
 	url = https://github.com/krisaziabor/design.git
+[submodule "literary"]
+	path = literary
+	url = https://github.com/krisaziabor/literary.git
