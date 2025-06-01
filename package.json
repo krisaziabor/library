@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Personal library project",
   "scripts": {
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "eagle-status": "cd design/studio && node --loader ts-node/esm scripts/cli/eagle-status-cli.tsx",
+    "eagle-sync": "cd design/studio && node --loader ts-node/esm scripts/cli/eagle-sync-cli.tsx",
+    "eagle-upload": "cd design/studio && node --loader ts-node/esm scripts/cli/eagle-upload-cli.tsx"
   },
   "devDependencies": {
     "@types/node": "^22.15.17",
